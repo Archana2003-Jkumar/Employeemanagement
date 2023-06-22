@@ -390,6 +390,7 @@ function EmployeeDeletionComponent() {
 export default EmployeeDeletionComponent;
 ```
 OUTPUT:
+
 ![image](https://github.com/Archana2003-Jkumar/Employeemanagement/assets/93427594/53156865-5b07-4d01-a2bd-183da477d15c)
 ![image](https://github.com/Archana2003-Jkumar/Employeemanagement/assets/93427594/c56464b0-eb0e-41cc-81e8-a26c83e7183e)
 ![image](https://github.com/Archana2003-Jkumar/Employeemanagement/assets/93427594/9d8f8be9-1e60-46f3-b682-8eb8f75fb37e)
